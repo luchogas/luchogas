@@ -12,7 +12,7 @@
 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/luchodiazz_/)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100038255418148)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/luciano-agustin-diaz-ogas-171b28280)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/luciano-agustin-d%C3%ADaz-ogas-171b28280/)
 [![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/luchodiazz7)
 [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+542645650131)
 [![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:lucianodiazogas@gmail.com)
